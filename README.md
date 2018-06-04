@@ -1,5 +1,5 @@
-# Prod Ops Chrome Tab
-Chrome extension for prod-ops team
+# Hometab
+Chrome extension
 
 # Installing from source
 1. Clone the repo locally, where you want to plugin to live
